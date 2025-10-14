@@ -48,8 +48,6 @@ Worked with structured data extraction and validation for AI model training.
 **Ambassador Roles @ University of Birmingham**  
 Guided prospective students, delivered workshops, and promoted STEM education.  
 
-**Teaching intern @ BCTSA**  
-Helped develop and deliver lessons to students
 ---
 
 ## Contact Information
