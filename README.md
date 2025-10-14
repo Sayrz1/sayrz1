@@ -9,7 +9,7 @@ I like solving real problems with clean code and smarter tools.
 
 ## Current Project
 
-**LexiLift** — a smart browser extension that simplifies web content for people with dyslexia.  
+**LexiLift** a smart browser extension that simplifies web content for people with dyslexia.  
 It uses AI and NLP to adjust text, speech, and structure to improve reading flow.  
 
 **Technical overview**
