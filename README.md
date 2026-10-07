@@ -2,6 +2,8 @@
 
 Hi, I'm **Sama Eldesouki**, a Computer Science student at the **University of Birmingham**.  
 
+**Portfolio:** [sayrz1.github.io](https://sayrz1.github.io)
+
 I build, test, and design systems that make tech more human.  
 I like solving real problems with clean code and smarter tools.
 
@@ -53,7 +55,8 @@ Guided prospective students, delivered workshops, and promoted STEM education.
 ## Contact Information
 
 - **LinkedIn:** [linkedin.com/in/samaeldesouki](https://www.linkedin.com/in/samaeldesouki)  
-- **Email:** s.ayrzpersonnal@gmail.com  
+- **Email:** s.ayrzpersonal@gmail.com  
+- **Portfolio:** [sayrz1.github.io](https://sayrz1.github.io)  
 - **GitHub:** [github.com/Sayrz1](https://github.com/Sayrz1)
 
 ---
