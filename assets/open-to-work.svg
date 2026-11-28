@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="34" viewBox="0 0 350 34" role="img" aria-label="Open to work: graduate roles in software and AI">
+  <title>Open to work: graduate roles in software and AI</title>
+  <style>
+    .t { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #f0fdf4; letter-spacing: 0.3px; }
+    .halo { animation: ping 1.8s ease-out infinite; transform-origin: 20px 17px; }
+    @keyframes ping { 0% { transform: scale(1); opacity: 0.8; } 100% { transform: scale(2.4); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .halo { animation: none; opacity: 0; } }
+  </style>
+  <rect width="350" height="34" rx="17" fill="#14532d"/>
+  <rect x="0.5" y="0.5" width="349" height="33" rx="16.5" fill="none" stroke="#4ade80" stroke-opacity="0.5"/>
+  <circle class="halo" cx="20" cy="17" r="5" fill="#4ade80"/>
+  <circle cx="20" cy="17" r="5" fill="#4ade80"/>
+  <text class="t" x="34" y="22">OPEN TO WORK · graduate software &amp; AI roles</text>
+</svg>

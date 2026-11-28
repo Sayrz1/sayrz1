@@ -8,16 +8,22 @@
 </p>
 
 <p align="center">
-  <a href="https://sayrz1.github.io"><img src="https://img.shields.io/badge/Portfolio-sayrz1.github.io-9a3412?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/samaeldesouki"><img src="https://img.shields.io/badge/LinkedIn-samaeldesouki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:s.ayrzpersonal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1c1917?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sayrz1.github.io"><img src="assets/portfolio-button.svg" width="440" alt="View my portfolio: sayrz1.github.io" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20CS-First%20Class%20Honours-c2410c?style=flat-square" alt="First Class Honours" />
-  <img src="https://img.shields.io/badge/University%20of-Birmingham-1c1917?style=flat-square" alt="University of Birmingham" />
-  <img src="https://img.shields.io/badge/NASA%20Space%20Apps-2026-0B3D91?style=flat-square&logo=nasa&logoColor=white" alt="NASA Space Apps 2026" />
-  <img src="https://img.shields.io/badge/Open%20to-work-15803d?style=flat-square" alt="Open to work" />
+  <a href="https://www.linkedin.com/in/samaeldesouki"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c91" alt="LinkedIn" /></a>
+  <a href="mailto:s.ayrzpersonal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-c2410c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20BSc%20Computer%20Science-First%20Class%20Honours-c2410c?style=for-the-badge&labelColor=7c2d12" alt="BSc Computer Science, First Class Honours" />
+  <img src="https://img.shields.io/badge/University%20of%20Birmingham-Class%20of%202026-44403c?style=for-the-badge&labelColor=1c1917" alt="University of Birmingham, Class of 2026" />
+  <a href="https://sayrz1.github.io/lunar-navigator/"><img src="https://img.shields.io/badge/NASA%20Space%20Apps-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white&labelColor=061f4a" alt="NASA Space Apps 2026" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/open-to-work.svg" height="34" alt="Open to work: graduate software and AI roles" />
 </p>
 
 ---
